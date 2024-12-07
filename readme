@@ -1,0 +1,31 @@
+Calculadora 🧮
+
+Este é um projeto de calculadora simples que utiliza HTML, CSS e JavaScript. Ele permite realizar operações matemáticas básicas como adição, subtração, multiplicação e divisão. O design é responsivo e utiliza o framework Bootstrap para estilização
+
+Funcionalidades
+Realiza as operações matemáticas básicas:
+Adição (+)
+Subtração (-)
+Multiplicação (*)
+Divisão (/)
+Limpeza total do display com o botão C.
+Design elegante e simples, com cores escuras para melhor contraste.
+Interface responsiva, adaptada para diferentes tamanhos de tela.
+
+Tecnologias Utilizadas
+HTML: Estrutura básica da página.
+CSS: Estilização e layout da calculadora.
+Bootstrap 4: Framework CSS para uma interface estilizada e responsiva.
+JavaScript: Lógica para funcionamento da calculadora
+
+Estrutura do Projeto
+Por enquanto a estrutura é de uma única pagina. Nesta pagina esta contindo todo o codigo
+
+
+Melhorias Futuras
+Adicionar suporte a teclas do teclado para melhorar a usabilidade.
+Implementar operações mais avançadas, como cálculo de porcentagem e raiz quadrada.
+Salvar o histórico de operações.
+Criar uma versão mobile aprimorada.
+Licença
+Este projeto é de código aberto e está sob a licença MIT. Você pode usá-lo, modificá-lo e distribuí-lo livremente. 🌟
